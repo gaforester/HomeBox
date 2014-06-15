@@ -1,0 +1,27 @@
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.exe.config
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.csprojResolveAssemblyReference.cache
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.Form1.resources
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.Properties.Resources.resources
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.csproj.GenerateResource.Cache
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.exe
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.pdb
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.exe
+c:\users\rbryant\documents\visual studio 2012\Projects\HomeBoxTCPServer\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.pdb
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.exe.config
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.exe
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.pdb
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.exe
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.pdb
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.csprojResolveAssemblyReference.cache
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.Form1.resources
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.Properties.Resources.resources
+C:\Users\deuane\Google Drive\CS6263\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.csproj.GenerateResource.Cache
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.exe.config
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.exe
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.pdb
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.exe
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\bin\Debug\HomeBoxTCPServer.pdb
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.Form1.resources
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.Properties.Resources.resources
+C:\Users\Gaforester\Documents\Visual Studio 2012\Projects\HomeBoxTCPServer_UI\HomeBoxTCPServer\obj\Debug\HomeBoxTCPServer.csproj.GenerateResource.Cache
